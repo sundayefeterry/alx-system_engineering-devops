@@ -1,2 +1,1 @@
-#!/bin/bash
-cat > Best School \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo "Holberton School" > \\\*\\\\"'\"Holberton School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
